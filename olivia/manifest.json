@@ -1,0 +1,71 @@
+{
+  "manifest_version": 2,
+  "name": "olivia",
+  "version": "1.4",
+  "author": "Matthew Pogue",
+  "description": "Dark theme inspired by the olivia++ keycaps. To alter theme, find it hosted at github.com/poguepotamus/firefox_themes. This may also be of some use. https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/theme",
+  "homepage_url": "https://github.com/poguepotamus/firefox_themes",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{2fcccd43-257b-4d95-81f5-f8b4d47a3a69}"
+    }
+  },
+  "icons": {
+    "16": "icon.svg",
+    "19": "icon.svg",
+    "32": "icon.svg",
+    "38": "icon.svg",
+    "48": "icon.svg",
+    "64": "icon.svg",
+    "96": "icon.svg",
+    "128": "icon.svg"
+  },
+  "theme": {
+    "colors": {
+      "toolbar": "#1F1F1F",
+      "frame": "#1F1F1F",
+      "popup": "#1F1F1F",
+      "ntp_background": "#1F1F1F",
+      "popup_border": "#1F1F1F",
+      "sidebar_border": "#1F1F1F",
+      "sidebar": "#1F1F1F",
+      "tab_selected": "#1F1F1F",
+      "toolbar_bottom_separator": "#1F1F1F",
+      "toolbar_top_separator": "#1F1F1F",
+
+      "tab_background_separator": "rgba(30, 30, 30, 0)",
+      "toolbar_field_border_focus": "rgba(30, 30, 30, 0)",
+      "toolbar_field_border": "rgba(30, 30, 30, 0)",
+
+      "toolbar_field": "#222222",
+      "frame_inactive": "#242424",
+
+      "toolbar_text": "#FBFBFB",
+      "toolbar_field_text": "#FBFBFB",
+      "popup_text": "#FBFBFB",
+      "ntp_text": "#FBFBFB",
+      "tab_loading": "#FBFBFB",
+      "tab_text": "#FBFBFB",
+      "toolbar_field_highlight_text": "#FBFBFB",
+      "toolbar_field_text_focus": "#FBFBFB",
+
+      "icons": "rgba(251, 251, 251, 0.8)",
+      "popup_highlight": "rgba(251, 251, 251, 0.1)",
+      "sidebar_highlight_text": "rgba(251, 251, 251, 0.8)",
+      "sidebar_text": "rgba(251, 251, 251, 0.6)",
+
+      "tab_line": "#f1beb0",
+      "button_background_active": "#f1beb0",
+      "button_background_hover": "#f1beb0",
+      "icons_attention": "#f1beb0",
+      "sidebar_highlight": "#f1beb0",
+      "toolbar_field_separator": "#f1beb0",
+      "toolbar_vertical_separator": "#f1beb0",
+
+      "popup_highlight_text": "rgb(183, 160, 160)",
+      "tab_background_text": "rgb(119, 119, 119)",
+      "toolbar_field_focus": "rgb(40, 40, 40)",
+      "toolbar_field_highlight": "rgb(68, 68, 68)"
+    }
+  }
+}

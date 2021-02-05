@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "olivia",
-  "version": "1.4",
+  "version": "1.5",
   "author": "Matthew Pogue",
   "description": "Dark theme inspired by the olivia++ keycaps. To alter theme, find it hosted at github.com/poguepotamus/firefox_themes. This may also be of some use. https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/theme",
   "homepage_url": "https://github.com/poguepotamus/firefox_themes",

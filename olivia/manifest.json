@@ -11,14 +11,14 @@
     }
   },
   "icons": {
-    "16": "icon.svg",
-    "19": "icon.svg",
-    "32": "icon.svg",
-    "38": "icon.svg",
-    "48": "icon.svg",
-    "64": "icon.svg",
-    "96": "icon.svg",
-    "128": "icon.svg"
+    "16": "assets/icon.svg",
+    "19": "assets/icon.svg",
+    "32": "assets/icon.svg",
+    "38": "assets/icon.svg",
+    "48": "assets/icon.svg",
+    "64": "assets/icon.svg",
+    "96": "assets/icon.svg",
+    "128": "assets/icon.svg"
   },
   "theme": {
     "colors": {
